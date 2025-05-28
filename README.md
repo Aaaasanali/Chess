@@ -55,17 +55,6 @@ Python — Core logic and OOP structure
 
 rich — Beautiful terminal rendering (used for the chess board)
 
-## 💡 Future Improvements
-Save/load game state
-
-Add AI opponent
-
-Add PGN export
-
-Highlight checks, pins, and forks
-
-Add move history log
-
 ## 📄 License
 This project is open-source and available under the MIT License.
 
