@@ -10,8 +10,8 @@ This is a **fully playable chess game** built with **Object-Oriented Programming
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/your-chess-repo.git
-   cd your-chess-repo
+   git clone https://github.com/Aaaasanali/Chess.git
+   cd Chess
 2. **(Optional) Create a virtual environment**
    ```bash
    python -m venv venv
