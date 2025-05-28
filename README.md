@@ -12,6 +12,16 @@ This is a **fully playable chess game** built with **Object-Oriented Programming
    ```bash
    git clone https://github.com/your-username/your-chess-repo.git
    cd your-chess-repo
+2. **(Optional) Create a virtual environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. **Install the only required library:**
+   ```bash
+   pip install rich
+4. **Run the game**
+   ```bash
+   python main.py
 
 ## 🎮 How to Play
 When prompted, select the position of the piece you want to move.
